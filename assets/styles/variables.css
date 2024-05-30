@@ -1,0 +1,20 @@
+:root {
+	--Primary: 235, 64, 52;
+	--White: 255, 255, 255;
+	--Black: 0, 0, 0;
+	--Gray: 217, 217, 217;
+
+	--Border: 188, 188, 188;
+
+	--Error: 242, 54, 72;
+	--Success: 33, 166, 122;
+
+	--Color: 0, 0, 0;
+	--Color-Secondary: 143, 143, 143;
+
+	--Max-Width-Container: 1158px;
+}
+
+.sadf {
+	background: pu;
+}
